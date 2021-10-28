@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(3, 24, 63);
+    color: rgb(0, 224, 224)
+}
+#area{
+    background-color: rgb(153, 101, 101);
+    width: 200px;
+    height: 200px;
+    font-size: 20px;
+    line-height: 200px;
+    text-align: center;
+
+}
